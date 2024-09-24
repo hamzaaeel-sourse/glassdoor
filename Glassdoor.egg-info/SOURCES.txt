@@ -1,0 +1,13 @@
+setup.py
+Glassdoor.egg-info/PKG-INFO
+Glassdoor.egg-info/SOURCES.txt
+Glassdoor.egg-info/dependency_links.txt
+Glassdoor.egg-info/entry_points.txt
+Glassdoor.egg-info/top_level.txt
+glassdoor/__init__.py
+glassdoor/items.py
+glassdoor/middlewares.py
+glassdoor/pipelines.py
+glassdoor/settings.py
+glassdoor/spiders/__init__.py
+glassdoor/spiders/glassdoors.py
